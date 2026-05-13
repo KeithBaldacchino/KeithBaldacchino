@@ -1,6 +1,6 @@
 # Hi, I'm Keith Baldacchino
 
-IT support professional based in Burbank, CA. I come from a technical trades background and build out my homelab to develop practical, hands-on skills in infrastructure and support.
+IT support professional based in Sherman Oaks, CA. I come from a technical trades background and built out my homelab to develop practical, hands-on skills in infrastructure and support.
 
 <br>
 
@@ -17,7 +17,7 @@ Security+ — in progress
 
 I'm transitioning into IT from a technical trades background in motor vehicle and dive equipment servicing. I build and break things in my homelab to develop practical, hands-on skills in the infrastructure and support areas that matter most on the job.
 
-I take a security-conscious approach to everything I set up — segmented networks, access controls, and monitoring are baked into how I think about building systems.
+I take a security-conscious approach to everything I set up; segmented networks, access controls, and monitoring are baked into how I think about building systems.
 
 <br>
 
@@ -50,7 +50,7 @@ I take a security-conscious approach to everything I set up — segmented networ
 
 ## Background
 
-Motor vehicle technician · Dive equipment technician · Service advisor · PADI Divemaster
+Motor vehicle technician · Dive equipment technician · Service advisor · SSI Divemaster
 
 Trades gave me systematic fault diagnosis, ownership of problems end-to-end, and the ability to communicate clearly with customers under pressure. Those habits carry directly into IT support.
 
@@ -58,7 +58,7 @@ Trades gave me systematic fault diagnosis, ownership of problems end-to-end, and
 
 ## Open to work
 
-Looking for entry-level IT support roles: helpdesk tier 1, desktop support, field technician, junior NOC, MSP technician. Based in Burbank, CA.
+Looking for entry-level IT support roles: helpdesk tier 1, desktop support, field technician, junior NOC, MSP technician. Based in Sherman Oaks, CA.
 
 ---
 
